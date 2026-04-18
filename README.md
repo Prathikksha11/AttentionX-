@@ -1,8 +1,8 @@
-# 🎬 AttentionX – AI Content Repurposer
+# AttentionX – AI Content Repurposer
 
 Turn long videos into viral short clips automatically 🚀
 
-## 📌 Overview
+##  Overview
 
 AttentionX is an AI-powered tool that helps creators convert long-form videos into engaging short-form content optimized for platforms like Instagram Reels, YouTube Shorts, and TikTok.
 
@@ -12,14 +12,14 @@ Instead of spending hours manually editing videos, AttentionX automates the enti
 
 ## 🚀 Features
 
-* 📤 Upload long-form videos (MP4)
-* 🎧 Automatic audio extraction
-* 🧠 AI-powered transcription using Whisper
-* 🤖 Smart detection of high-impact (“viral”) moments
-* 🎯 Generates 4–5 short clips under 60 seconds
-* 📱 Converts clips into vertical (9:16) format
-* ⚡ Fast and fully automated pipeline
-* 🎬 Ready-to-share video outputs
+* Upload long-form videos (MP4)
+* Automatic audio extraction
+* AI-powered transcription using Whisper
+* Smart detection of high-impact (“viral”) moments
+* Generates 4–5 short clips under 60 seconds
+* Converts clips into vertical (9:16) format
+* Fast and fully automated pipeline
+* Ready-to-share video outputs
 
 ---
 
@@ -33,7 +33,7 @@ Instead of spending hours manually editing videos, AttentionX automates the enti
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. Upload a video file
 2. Audio is extracted using MoviePy
@@ -43,7 +43,7 @@ Instead of spending hours manually editing videos, AttentionX automates the enti
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
 * Content creators & influencers
 * YouTubers repurposing long videos
@@ -53,7 +53,7 @@ Instead of spending hours manually editing videos, AttentionX automates the enti
 
 ---
 
-## 💡 Future Enhancements
+##   Future Enhancements
 
 * Auto subtitles (without external dependencies)
 * AI based highlight detection (NLP-based scoring)
@@ -63,7 +63,7 @@ Instead of spending hours manually editing videos, AttentionX automates the enti
 
 ---
 
-## 📸 Demo
+##  Demo
 
 Generates multiple short clips (under 60 seconds) with:
 
@@ -73,13 +73,13 @@ Generates multiple short clips (under 60 seconds) with:
 
 ---
 
-## 🧠 Key Insight
+##  Key Insight
 
 AttentionX focuses on **speed, automation, and usability**, enabling creators to produce more content with less effort.
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 AttentionX transforms content repurposing from a manual, time-consuming task into a fast, AI-driven workflow — helping creators focus on creativity rather than editing.
 
