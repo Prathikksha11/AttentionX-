@@ -39,7 +39,7 @@ Instead of spending hours manually editing videos, AttentionX automates the enti
 2. Audio is extracted using MoviePy
 3. Whisper transcribes the audio
 4. The system identifies potential viral segments
-5. 5 - 7 Clips are generated and optimized for short-form platforms
+5. 4-5 Clips are generated and optimized for short-form platforms
 
 ---
 
